@@ -1,6 +1,4 @@
-[![Build Status](https://travis-ci.org/yudin-s/nuxt-ghpages-boilerplate.svg?branch=master)](https://travis-ci.org/yudin-s/nuxt-ghpages-boilerplate) 
-# nuxt-ghpages-boilerplate
-
+[![Build Status](https://travis-ci.com/yudin-s/nuxt-ghpages-boilerplate.svg?branch=master)](https://travis-ci.com/yudin-s/nuxt-ghpages-boilerplate)
 > Nuxt.js Boilerplate for GitHub Pages with TravisCI support
 
 This boilerplate contain all required files for publish your projects to GitHub Pages much faster.

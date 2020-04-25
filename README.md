@@ -3,7 +3,21 @@
 
 > Nuxt.js Boilerplate for GitHub Pages with TravisCI support
 
-## Build Setup
+This boilerplate contain all required files for publish your projects to GitHub Pages much faster.
+
+Just fork this repository, put components, assets, layouts, pages and middleware from exist project and have fun!
+
+## FAQ 
+
+How to obtain github token & configure TravisCI for public repos? 
+
+> https://docs.travis-ci.com/user/deployment/pages/
+
+How solution is working? 
+
+> https://nuxtjs.org/faq/github-pages/
+
+## Build on Local Machine
 
 ```bash
 # install dependencies
@@ -19,9 +33,3 @@ $ yarn start
 # generate static project
 $ yarn generate
 ```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
-
-##Read More 
-
-https://nuxtjs.org/faq/github-pages/

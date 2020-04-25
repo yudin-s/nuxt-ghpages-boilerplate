@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/yudin-s/nuxt-ghpages-boilerplate.svg?branch=master)](https://travis-ci.org/yudin-s/nuxt-ghpages-boilerplate) 
 # nuxt-ghpages-boilerplate
 
 > Nuxt.js Boilerplate for GitHub Pages with TravisCI support

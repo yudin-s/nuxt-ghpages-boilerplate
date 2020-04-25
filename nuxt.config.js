@@ -1,5 +1,12 @@
+const routerBase = process.env.DEPLOY_ENV === 'GH_PAGES' ? {
+  router: {
+    base: '/nuxt-ghpages-boilerplate/'
+  }
+} : {}
 
 export default {
+  ...routerBase,
+
   mode: 'universal',
   /*
   ** Headers of the page

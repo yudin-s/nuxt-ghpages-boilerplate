@@ -6,7 +6,7 @@
         nuxt-ghpages-boilerplate
       </h1>
       <h2 class="subtitle">
-        Nuxt.js Boilerplate for GitHub Pages with TravisCI support
+        Nuxt.js Boilerplate with GitHub Pages with TravisCI support
       </h2>
       <div class="links">
         <a
